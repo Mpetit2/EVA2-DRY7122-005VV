@@ -1,0 +1,14 @@
+ * Serving Flask app "claves2024" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:7050/ (Press CTRL+C to quit)
+127.0.0.1 - - [26/May/2024 19:56:00] "[37mGET / HTTP/1.1[0m" 200 -
+ * Serving Flask app "claves2024" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:7050/ (Press CTRL+C to quit)
+127.0.0.1 - - [26/May/2024 20:06:58] "[37mPOST /signup/v1 HTTP/1.1[0m" 200 -
